@@ -44,7 +44,6 @@ the random walk. However, as mentioned in the code comments, this process can be
 
 # Notes
 
-Finally, this project and its contents can be generalized towards higher dimensions, for example, the third dimension, with appropriate, but 
-fairly similar, edits to the code 
+Finally, this project and its contents can be generalized towards higher dimensions, for example, the third dimension, with appropriate, but fairly similar, edits to the code.
 
 
